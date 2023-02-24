@@ -1,0 +1,9 @@
+Passos:
+1º Criar repositório no github;
+2º Dar um git clone;
+3º Dar cd endereço do repositório local para entrar para alterar;
+4º git status (verificar);
+5º git add -A; 
+6º git commit -m "mensagem desejada";
+7º git status (verificar);
+8º git push origin main.
